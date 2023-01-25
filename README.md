@@ -1,6 +1,6 @@
 # Olá! Eu sou o Júlio.
 
-- 🧠 Estudando Javascript, Sql Sever e ReactJs
+- 🧠 Estudando Typescript, ReactJs, NodeJs, banco de dados relacional e não relacional
 - 😊 Pronouns: ele/dele
 
 <div >
