@@ -1,7 +1,10 @@
 # Olá! Eu sou o Júlio.
 
-- 🧠 Estudando Typescript, ReactJs, NodeJs, banco de dados relacional e não relacional
 - 😊 Pronouns: ele/dele
+- 👨‍💻 Desenvolvedor Full Stack
+- 🚀 Especializado em C#, TypeScript, .NET Core
+- 💾 Amante de SQL Server e Bancos de Dados NoSQL
+
 
 <div >
   <a href="https://github.com/julioCAlmeida">
@@ -10,10 +13,12 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="julio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="julio-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="julio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="julio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="julio-C#" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+
 </div>
   
   ##
