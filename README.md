@@ -18,6 +18,7 @@
   <img align="center" alt="julio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="julio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="julio-C#" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  <img align="center" alt="julio-Go" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
 </div>
   
